@@ -1,0 +1,36 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("../img/bgimg.png");
+  
+  
+  
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.MainTitle {
+
+    Color: White;
+    font-size: 35pt;
+    font-weight: bold;
+}
+
+.SubTitle {
+    Color: rgb(238, 135, 18);
+    font-size: 28pt;
+    font-weight: bold;
+
+}
+
+

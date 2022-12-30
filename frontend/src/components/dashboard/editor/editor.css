@@ -1,0 +1,39 @@
+
+
+  .center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 80%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+  .left {
+    margin: 0;
+    position: absolute;
+    top: 30%;
+    left: 78.5%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+  .row{
+
+    width: 68%;
+  }
+
+  .left2 {
+    margin: 0;
+    position: absolute;
+    top: 17.68%;
+    left: 69%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+
+  .navbarsize{
+
+    width: 50%;
+  }
+
+ 
